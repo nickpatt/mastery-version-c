@@ -1,0 +1,8 @@
+   15  r testcases/multi_op_err.s
+   16  r testcases/basic_add.s
+   17  q
+   18  r testcases/multi_op.s
+   19  bt
+   20  q
+   21  r testcases/multi_op.s
+   22  q]
